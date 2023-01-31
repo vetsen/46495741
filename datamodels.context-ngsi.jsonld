@@ -1,0 +1,15 @@
+{
+    "@context": {
+        "type": "@type",
+        "id": "@id",
+        "ngsi-ld": "https://uri.etsi.org/ngsi-ld/",
+        "fiware": "https://uri.fiware.org/ns/data-models#",
+        "schema": "https://schema.org/",
+        "Battery": "fiware:Battery",
+        "fillingLevel": "https://w3id.org/saref#fillingLevel",
+        "observedAt": "ngsi-ld:observedAt",
+        "providedBy": "fiware:providedBy",
+        "temperature": "https://w3id.org/saref#temperature",
+        "unitCode": "ngsi-ld:unitCode"
+    }
+}
